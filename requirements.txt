@@ -1,0 +1,7 @@
+pandas>=2.2,<3.1
+numpy>=1.26,<3.0
+scikit-learn>=1.5,<1.8
+nltk>=3.9,<4.0
+streamlit>=1.44,<2.0
+joblib>=1.4,<2.0
+imbalanced-learn>=0.13,<0.15
